@@ -3,7 +3,7 @@ analyzer:
             "**/generated_plugin_registrant.dart","**/*.mocks.dart"]
   strong-mode:
     implicit-casts: false
-    implicit-dynamic: false
+#    implicit-dynamic: false
   errors:
     # Error rules
     avoid_dynamic_calls: error
